@@ -1,7 +1,7 @@
 # ShaReads - Peer-to-Peer Book-Renting-Website
 
 ## Motivation:
-..* ShaReads is basically going to be a responsive website.
+* ShaReads is basically going to be a responsive website.
 The website is focused on developing a platform for renting
 books between the student in their universities. This will
 hep students to get books they need at a lower cost and
