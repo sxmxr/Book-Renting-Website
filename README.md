@@ -47,5 +47,3 @@ the needed books via E-Mails.
 * Priyank Sangani
 * Parth Patel
 * Meet Manani
-* 
-
