@@ -34,7 +34,6 @@ the needed books via E-Mails.
 
 
 ## Screenshots:
-![2a (1)](https://user-images.githubusercontent.com/47913479/119267868-08e93f80-bc0e-11eb-9d32-165e80dc4985.png)
 ![Screenshot (368)](https://user-images.githubusercontent.com/47913479/119267875-10a8e400-bc0e-11eb-958e-bc990b251a85.png)
 ![3a (1)](https://user-images.githubusercontent.com/47913479/119267882-17375b80-bc0e-11eb-91ad-3b47e4e5daf4.png)
 ![4a (1)](https://user-images.githubusercontent.com/47913479/119267899-28806800-bc0e-11eb-9944-eaa92e9c2103.png)
